@@ -1,0 +1,4 @@
+locadora_games_database_path = jdbc:postgresql:
+locadora_games_database_port = 5432
+locadora_games_database_ip = 127.0.0.1
+locadora_games_database_name = locadora_games
