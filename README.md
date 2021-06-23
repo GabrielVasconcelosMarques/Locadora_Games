@@ -14,7 +14,7 @@
 ![Capturar3.JPG](https://i.imgur.com/HJzjjNe.jpg)
 
 ### Cadastro de alugueis, puxando diretamente do banco de dados os clientes cadastrados e os games, restando apenas preencher as datas e valores.
-![Capturar4.JPG]https://i.imgur.com/G13HtTx.jpg)
+![Capturar4.JPG](https://i.imgur.com/G13HtTx.jpg)
 
 
 
